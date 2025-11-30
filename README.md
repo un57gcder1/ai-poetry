@@ -11,7 +11,7 @@ Who shrought in this works to be.
 	Then should for the houses you are I would,
 	The morn of your anger from his man,
 	And I tell the matter down the power,
-	But what he never known in vain her servile mountains might see
+	...
 	To the knything with frostic for did so now leaves to further haue
 ~~~
 ~~~
