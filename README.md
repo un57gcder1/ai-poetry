@@ -1,5 +1,5 @@
 # AI Poetry
-A simple AI poetry web application that can produce character-based poetry using [torch-rnn](https://github.com/jcjohnson/torch-rnn). The model is trained on public domain poetry texts from [Project Gutenberg](https://www.gutenberg.org/). Unfortunately the project is no longer online. For more information, please see this [blog post](https://medium.com/@uneeb/generating-poetry-using-recurrent-neural-networks-6a4fe7e3b3ac).
+A simple AI poetry web application that can produce character-based poetry using [torch-rnn](https://github.com/jcjohnson/torch-rnn). The model is trained on public domain poetry texts from [Project Gutenberg](https://www.gutenberg.org/). Unfortunately the project is no longer online.
 ### Samples
 ~~~
 The poems of hasted leave the self-ore then
